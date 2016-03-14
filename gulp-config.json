@@ -5,7 +5,7 @@
         "temp": ".tmp",
         "maps": ".maps",
         "gMapDev": "//maps.googleapis.com/maps/api/js",
-        "gMapProd": "//maps.googleapis.com/maps/api/js?key=AIzaSyCAlEd-WpCEK5Jo4AQZjQCZ8iaswTaRiys",
+        "gMapProd": "//maps.googleapis.com/maps/api/js?key=XXXXXyCAlEd-WpCEK5Jo4AQZjQCZ8iaswTXXXXX",
         "buildCssPrefix": "styles",
         "css": ["app/styles/main.scss"],
         "entry": "app/scripts/app.js",
